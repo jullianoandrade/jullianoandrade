@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Olá! Bem vindo ao meu perfil do GitHub, me chamo Juliano Rodrigues de Andrade, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Ciência da Computação na Universidade La Salle. Sou apaixonado por tecnologia e por aprender!
+ Olá! Bem vindo ao meu perfil do GitHub, me chamo Juliano Rodrigues de Andrade, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Ciência da Computação na Universidade La Salle. Sou apaixonado por tecnologia e por aprender!
 
 ---
 
