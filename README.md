@@ -24,6 +24,14 @@ Olá! Bem vindo ao meu perfil do GitHub, me chamo Juliano Rodrigues de Andrade, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" 
 />
+<img 
+    align="left" 
+    alt="VSCode" 
+    title="VSCode"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -40,7 +48,7 @@ Olá! Bem vindo ao meu perfil do GitHub, me chamo Juliano Rodrigues de Andrade, 
   />
 
 <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoandrads&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
