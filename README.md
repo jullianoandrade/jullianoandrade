@@ -18,22 +18,6 @@ Olá! Bem vindo ao meu perfil do GitHub, me chamo Juliano Rodrigues de Andrade, 
 />
 <img 
     align="left" 
-    alt="C" 
-    title="C"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Replit" 
     title="Replit"
     width="40px" 
@@ -56,7 +40,7 @@ Olá! Bem vindo ao meu perfil do GitHub, me chamo Juliano Rodrigues de Andrade, 
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoandrads&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
@@ -67,6 +51,6 @@ Olá! Bem vindo ao meu perfil do GitHub, me chamo Juliano Rodrigues de Andrade, 
 #### Contato 📩
 
 <div>
-  <a href="https://www.linkedin.com/in/juliano-andrade-73751a27b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="http://linkedin.com/in/juliano-andrads" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:juliano.andrade.cs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
