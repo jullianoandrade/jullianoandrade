@@ -22,7 +22,7 @@ Olá! Bem vindo ao meu perfil do GitHub, me chamo Juliano Rodrigues de Andrade, 
     title="Pandas"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" 
 />
 <img 
     align="left" 
