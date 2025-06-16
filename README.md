@@ -18,11 +18,11 @@ Olá! Bem vindo ao meu perfil do GitHub, me chamo Juliano Rodrigues de Andrade, 
 />
 <img 
     align="left" 
-    alt="Replit" 
-    title="Replit"
+    alt="Pandas" 
+    title="Pandas"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
 />
 <img 
     align="left" 
@@ -59,6 +59,6 @@ Olá! Bem vindo ao meu perfil do GitHub, me chamo Juliano Rodrigues de Andrade, 
 #### Contato 📩
 
 <div>
-  <a href="http://linkedin.com/in/juliano-andrads" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="http://linkedin.com/in/jullianoandrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:juliano.andrade.cs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
