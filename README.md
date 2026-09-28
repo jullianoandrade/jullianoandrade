@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:bb9af7&height=220&section=header&text=Juliano%20Andrade&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Engenheiro%20de%20IA%20e%20Automa%C3%A7%C3%A3o&descSize=20&descAlignY=56" width="100%" />
 
 <a href="https://github.com/jullianoandrade">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Transformando+processos+manuais+em+fluxos+inteligentes;LLMs+%26+Agentes+de+IA+com+LangGraph;RAG+%E2%80%A2+Evals+%E2%80%A2+Observabilidade+com+Langfuse;Automa%C3%A7%C3%A3o+com+Python+que+gera+impacto+real" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=800&lines=Transformando+processos+manuais+em+fluxos+inteligentes;LLMs+%26+Agentes+de+IA+com+LangGraph;RAG+%E2%80%A2+Evals+%E2%80%A2+Observabilidade+com+Langfuse;Automa%C3%A7%C3%A3o+com+Python+que+gera+impacto+real" alt="Typing SVG" />
 </a>
 
 <br/>
