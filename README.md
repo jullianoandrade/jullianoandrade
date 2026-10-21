@@ -90,6 +90,30 @@ flowchart LR
 
 ---
 
+### 🔒 Por que a maioria dos repositórios é privada
+
+Agentes em produção, automação tributária, pipelines de dados: quase tudo que eu
+construo é feito **dentro de empresas ou para clientes**. O código, as regras de negócio
+e os dados pertencem a quem me contratou — então esses repositórios ficam fechados por
+decisão deliberada. Proteger isso é parte do trabalho, não ausência dele.
+
+O que está público aqui são projetos **autorais**, em que a propriedade é minha de ponta
+a ponta:
+
+- **[economize_milhas](https://github.com/jullianoandrade/economize_milhas)** — responde se
+  uma passagem vale mais em milhas ou em dinheiro, a partir do custo por milheiro de cada
+  pessoa. Next.js 15 · TypeScript · Supabase · 328 testes ·
+  [no ar](https://economizemilhas.vercel.app)
+
+<div align="center">
+
+**📂 Em construção:** um portfólio reunindo os projetos profissionais em detalhe —
+arquitetura, decisões técnicas e resultados medidos, sem expor código ou dado de cliente.
+
+</div>
+
+---
+
 ### 🚀 Projetos em destaque
 
 <details>
