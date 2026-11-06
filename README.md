@@ -8,6 +8,7 @@
 
 <br/>
 
+<a href="https://portfolio-alpha-drab-42.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-bb9af7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/jullianoandrade/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:juliano.andrade.cs@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=jullianoandrade&label=visitas&color=7aa2f7&style=for-the-badge" />
@@ -104,10 +105,12 @@ a ponta:
   uma passagem vale mais em milhas ou em dinheiro, a partir do custo por milheiro de cada
   pessoa. Next.js 15 · TypeScript · Supabase · 328 testes ·
   [no ar](https://economizemilhas.vercel.app)
+- **[portfolio](https://github.com/jullianoandrade/portfolio)** — o próprio portfólio, bilíngue (PT/EN).
+  Next.js 16 · React 19 · Tailwind 4 · [no ar](https://portfolio-alpha-drab-42.vercel.app)
 
 <div align="center">
 
-**📂 Em construção:** um portfólio reunindo os projetos profissionais em detalhe —
+**📂 [Veja o portfólio](https://portfolio-alpha-drab-42.vercel.app)** — os projetos profissionais em detalhe:
 arquitetura, decisões técnicas e resultados medidos, sem expor código ou dado de cliente.
 
 </div>
