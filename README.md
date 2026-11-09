@@ -29,7 +29,7 @@ class Juliano:
         self.formacao = "Ciência da Computação @ Unisinos"
         self.stack = ["Python", "LangGraph", "LangChain", "RAG", "Langfuse", "PostgreSQL"]
         self.foco = ["Agentes de IA", "Automação do setor tributário", "Evals & observabilidade"]
-        self.tambem = ["Mentoria técnica", "Treinamentos internos de IA aplicada"]
+        self.tambem = ["Integração técnica de novos colegas", "Treinamentos internos de IA aplicada"]
 
     def resolver(self, problema: str) -> str:
         regras = self.entender_regras_de_negocio(problema)
@@ -38,7 +38,7 @@ class Juliano:
 ```
 
 - 🏢 Fui o **primeiro profissional de Automação** do Grupo Studio e ajudei a estruturar a área do zero
-- 🧑‍🏫 Hoje também **mentoro o time** e conduzo treinamentos sobre IA aplicada ao desenvolvimento
+- 🧑‍🏫 Integrei tecnicamente os colegas que chegaram depois e conduzo **treinamentos** sobre IA aplicada ao desenvolvimento
 - 💡 Meu interesse: pegar tecnologia complexa e transformar em algo **prático, confiável e acessível**
 
 ---
